@@ -9,4 +9,4 @@ sudo echo -e "deb http://nginx.org/packages/mainline/ubuntu/ `lsb_release -cs` n
 
 sudo apt-get install nginx
 
-sudo nginx -version
+sudo nginx -v
